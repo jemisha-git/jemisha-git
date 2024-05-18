@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jemisha-git
+- 👀 I’m interested in Web development
+- 🌱 I’m currently working in Angular
+- 😄 Pronouns: Jemi
